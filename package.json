@@ -1,0 +1,23 @@
+{
+  "name": "mysi",
+  "version": "1.0.0",
+  "main": "10-rock-paper-scissors.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kosanaharshavardhan/SI.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kosanaharshavardhan/SI/issues"
+  },
+  "homepage": "https://github.com/kosanaharshavardhan/SI#readme",
+  "description": "",
+  "devDependencies": {
+    "jasmine": "^5.7.1"
+  }
+}
