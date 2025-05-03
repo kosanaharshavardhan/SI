@@ -1,11 +1,11 @@
-@media (max-width: 1200px) {
+
   .sidebar {
     position: fixed;
     left: 0;
     bottom: 0;
     top: 55px;
     background-color: white;
-    width: 72px;
+    width: 36px;    
     z-index: 200;
     padding-top: 5px;
   }
@@ -15,7 +15,7 @@
     display: flex;
     justify-content: center;
     align-items: center;
-    flex-direction: column;
+    flex-direction: column; 
     cursor: pointer;
   }
 
@@ -32,16 +32,14 @@
     font-family: Roboto, Arial;
     font-size: 10px;
   }
-}
 
-@media (min-width: 1200.1px) {
   .sidebar {
     position: fixed;
     left: 0;
     bottom: 0;
     top: 55px;
     background-color: white;
-    width: 240px;
+    width: 150px;
     z-index: 200;
     padding-top: 13px;
   }
@@ -66,4 +64,4 @@
     font-family: Roboto, Arial;
     font-size: 14px;
   }
-}
+
